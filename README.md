@@ -9,4 +9,4 @@ You can play it on http://bluka.xyz
 * Implement deleting character files
 * *Maybe* android support
 
-(I used that repo to host renpy web, but now I'm hosting ut from my VDS, so that repo is useful)
+(I used that repo to host renpy web, but now I'm hosting it from my VDS, so that repo is useful)
